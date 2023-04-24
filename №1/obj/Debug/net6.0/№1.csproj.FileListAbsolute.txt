@@ -1,0 +1,5 @@
+/Users/vladimirlambin/Desktop/черновик/№1/obj/Debug/net6.0/№1.csproj.AssemblyReference.cache
+/Users/vladimirlambin/Desktop/черновик/№1/obj/Debug/net6.0/№1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirlambin/Desktop/черновик/№1/obj/Debug/net6.0/№1.AssemblyInfoInputs.cache
+/Users/vladimirlambin/Desktop/черновик/№1/obj/Debug/net6.0/№1.AssemblyInfo.cs
+/Users/vladimirlambin/Desktop/черновик/№1/obj/Debug/net6.0/№1.csproj.CoreCompileInputs.cache
